@@ -18,8 +18,6 @@ It was actually inspired by a stack trace of an error I saw at the terminal:
 
 <img width="657" alt="Screenshot 2024-12-04 at 12 30 48 PM" src="https://github.com/user-attachments/assets/f0baa7e2-e1d9-40d6-8ce2-24e34581345f">
 
-I wish I had the mindspace to write more such things that stand at the intersection of my software testing and writing interests. 
-
 <!--
 **faaman/faaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
